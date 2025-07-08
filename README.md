@@ -35,8 +35,15 @@ This project applies a combination of **Supervised Learning**, **Unsupervised Le
 
 - 🔍 **Explainability with SHAP**
 - 📈 **Visualizations**: ROC Curve, Confusion Matrix, Clusters, Combined View
-<img width="346" alt="Screenshot 2025-07-08 222831" src="https://github.com/user-attachments/assets/0bbb3919-4ee9-476a-a5b8-6ca262108a17" />
 
-<img width="455" alt="Screen<img width="324" alt="Screenshot 2025-07-08 222651" src="https://github.com/user-attachments/assets/7c17268c-cca9-4544-8d82-7da55daa12ce" />
+  ##  SHAP Analysis
+<img width="363" alt="Screenshot 2025-07-08 222856" src="https://github.com/user-attachments/assets/5bd14310-3697-4b92-8a14-77c1634bfd98" />
 
-<img width="363" alt="Screenshot 2025-07-08 222856" src="https://github.com/user-attachments/assets/4e9a4178-b27e-4137-9718-70491b13aba0" />
+##ROC Curve and Confusion Matrix of Proposed Model 
+<img width="346" alt="Screenshot 2025-07-08 222831" src="https://github.com/user-attachments/assets/8df32aac-99c1-4cca-b260-637ef736dd37" />
+
+## PCA Projection 
+<img width="455" alt="Screenshot 2025-07-08 222723" src="https://github.com/user-attachments/assets/ef4e1af7-ac07-49ef-bcef-7851d7f97ca0" />
+
+## Behavior Prediction & Risk Clustering 
+<img width="324" alt="Screenshot 2025-07-08 222651" src="https://github.com/user-attachments/assets/e38d59f9-3c8f-486c-8ff8-061a24df91bc" />
